@@ -1,0 +1,10 @@
+sqlalchemy
+python-dotenv
+pandas
+paramiko
+reportlab
+schedule
+# Add your specific database driver here, e.g.:
+# psycopg2-binary # For PostgreSQL
+# mysql-connector-python # For MySQL
+# pyodbc # For SQL Server/ODBC
